@@ -1,6 +1,6 @@
 {
   "name": "ngn-angular-smileys",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "authors": [
     "Pedro Gorrin <pedro.gorrin@ngncloud.com>"
   ],
@@ -11,6 +11,14 @@
     "angularjs",
     "smilies"
   ],
+  "dependencies": {
+    "angular": "^1.2.0",
+    "angular-sanitize" : "^1.4.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.2.0",
+    "angular-bootstrap": "^1.1.0"
+  },
   "license": "MIT",
   "homepage": "",
   "private": false,
