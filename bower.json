@@ -1,32 +1,35 @@
 {
-  "name": "ngn-angular-smileys",
-  "version":"1.0.1",
-  "authors": [
-    "Pedro Gorrin <pedro.gorrin@ngncloud.com>"
-  ],
-  "description": "Angular Js smilies",
-  "main": "dist/ngn-angular-smilies",
-  "moduleType": [],
-  "keywords": [
-    "angularjs",
-    "smilies"
-  ],
-  "dependencies": {
-    "angular": "^1.2.0",
-    "angular-sanitize" : "^1.4.0"
-  },
-  "devDependencies": {
-    "bootstrap": "^3.2.0",
-    "angular-bootstrap": "^1.1.0"
-  },
-  "license": "MIT",
-  "homepage": "",
-  "private": false,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "ngn-angularjs-smileys",
+    "version": "1.0.1",
+    "authors": [{
+            "name": "Damien \"Mistic\" Sorel",
+            "homepage": "http://www.strangeplanet.fr"
+        },
+        "Pedro Gorrin <pedro.gorrin@ngncloud.com>"
+    ],
+    "description": "Angular Js smilies",
+    "main": "dist/ngn-angular-smilies",
+    "moduleType": [],
+    "keywords": [
+        "angularjs",
+        "smilies"
+    ],
+    "dependencies": {
+        "angular": "^1.2.0",
+        "angular-sanitize": "^1.4.0"
+    },
+    "devDependencies": {
+        "bootstrap": "^3.2.0",
+        "angular-bootstrap": "^1.1.0"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "private": false,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
